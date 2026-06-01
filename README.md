@@ -138,3 +138,7 @@ The Hospital Bed Allocation System demonstrates how Artificial Intelligence conc
 
 Developed as an AI-based academic mini project for healthcare resource optimization.
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/470bbf89-9ab7-4353-8c6e-b6d38b107556" />
+
+## Note
+
+If GitHub is unable to render the notebook preview, please download the `.ipynb` file and open it in Google Colab or Jupyter Notebook.
